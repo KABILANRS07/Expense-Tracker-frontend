@@ -1,4 +1,4 @@
-import React, {useState, useMemo} from 'react'
+import React, {useState} from 'react'
 import styled from "styled-components";
 import bg from './img/bg.png'
 import {MainLayout} from './styles/Layouts'
