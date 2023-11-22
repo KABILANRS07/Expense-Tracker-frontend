@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import { useGlobalContext } from '../../context/globalContext';
-import { InnerLayout } from '../../styles/Layouts';
 import { calender, clock, dollar } from '../../utils/Icons';
 import { dateFormat, timeFormat } from '../../utils/dateFormat';
 

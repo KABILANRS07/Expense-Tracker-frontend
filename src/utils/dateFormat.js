@@ -6,5 +6,6 @@ export const dateFormat = (date) =>{
 
 }
 export const timeFormat = (date)=>{
-    return moment(date).format('HH:MM')
+    return moment(date).format('HH:mm')
 }
+
