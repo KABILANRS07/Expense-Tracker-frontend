@@ -111,7 +111,7 @@ const DashboardStyled = styled.div`
                     align-items: center;
                     p{
                         opacity: 0.6;
-                        font-size: 4.5rem;
+                        font-size: 4rem;
                     }
                 }
             }
